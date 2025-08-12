@@ -9,7 +9,8 @@ Welcome to my creative sandbox for AI-generated video projects. I'm exploring st
 A cinematic forest scene with glowing mushrooms and bioluminescent fog. This was my first try at prompt-based video generation.
 
 📄 Prompt: [`glowing-forest-prompt.json`](prompts/glowing-forest-prompt.json)  
-🎥 Video: [`glowing forest.mp4`](assets/glowing%20forest.mp4)
+🎥 Video: [`rainforest ai video.mp4`](assets/rainforest%20ai%20video.mp4)
+
 
 > ⚠️ GitHub doesn’t support direct playback of `.mp4` files.  
 > To watch the video:
