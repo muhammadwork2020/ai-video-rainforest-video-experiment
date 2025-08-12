@@ -1,4 +1,4 @@
-# a# Petri Dish Rainforest — AI Video Experiment 🌿
+# Petri Dish Rainforest — AI Video Experiment 🌿
 
 This project explores cinematic AI video generation using a structured JSON prompt. A single water droplet triggers a timelapse transformation from sterile lab sand to a lush rainforest ecosystem inside a petri dish.
 
@@ -12,10 +12,10 @@ This project explores cinematic AI video generation using a structured JSON prom
 See [`prompt.json`](./prompt.json) for full structure.
 
 ## 📹 Output
-Watch the final video [here](./rainforest%20ai%20video.mp4) 
+Watch the final video [here](./rainforest%20ai%20video.mp4)  
 *(or update the link if you placed it in an `assets/` folder)*
 
 ## 🧠 Lessons Learned
 - Petri dish offers stronger scientific symbolism than a half-bowl.
-- Timelapse pacing is key to emotional impact.i-video-rainforest-video-experiment
-This project explores cinematic AI video generation using a structured JSON 
+- Timelapse pacing is key to emotional impact.
+
