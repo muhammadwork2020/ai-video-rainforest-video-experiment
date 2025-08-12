@@ -12,7 +12,7 @@ This project explores cinematic AI video generation using a structured JSON prom
 See [`prompt.json`](./prompt.json) for full structure.
 
 ## 📹 Output
-Watch the final video [here](./rainforest_timelapse.mp4)  
+Watch the final video [here](./rainforest%20ai%20video.mp4) 
 *(or update the link if you placed it in an `assets/` folder)*
 
 ## 🧠 Lessons Learned
