@@ -1,25 +1,44 @@
-# Petri Dish Rainforest — AI Video Experiment 🌿
+# 🌿 Rainforest AI Video Project
 
-This project explores cinematic AI video generation using a structured JSON prompt. A single water droplet triggers a timelapse transformation from sterile lab sand to a lush rainforest ecosystem inside a petri dish.
+This project explores the use of AI to generate a short video about the rainforest, combining creative prompts with automated video synthesis. It's part of my journey into AI-powered media generation and cloud-based asset management.
 
-## 🎬 Concept
-- **Medium**: AI-generated video
-- **Style**: Photorealistic, cinematic macro shot
-- **Duration**: ~6 seconds
-- **Narrative**: Droplet → Growth → Life
+## 📁 Project Structure
 
-## 🧪 Prompt
-See [`prompt.json`](./prompt.json) for full structure.
+- `prompt.json` — Contains the structured prompt used to generate the video.
+- `assets/` — Folder holding the final video output and placeholder files.
+  - `rainforest ai video.mp4` — The generated video.
+  - `.gitkeep` — Keeps the folder tracked in Git.
 
-## 📹 Output
-Watch the final video [here](./assets/rainforest_ai_video.mp4)
+## 🎬 Watch the Video
 
-Or play it directly below:
+Click below to view the AI-generated rainforest video:
 
-<video src="./assets/rainforest_ai_video.mp4" controls width="100%">
-  Your browser does not support the video tag.
-</video>
+[▶️ rainforest ai video.mp4](assets/rainforest%20ai%20video.mp4)
 
-## 🧠 Lessons Learned
-- Petri dish offers stronger scientific symbolism than a half-bowl.
-- Timelapse pacing is key to emotional impact.
+> Note: GitHub does not preview `.mp4` files inline, but the link will allow you to download or open the video in your browser.
+
+## 🧠 Prompt Overview
+
+The prompt used to generate this video focused on:
+
+- 🌳 Rainforest biodiversity
+- 🌦️ Climate and atmosphere
+- 🐒 Wildlife and natural sounds
+- 🎨 Visual storytelling through AI
+
+You can view the full prompt in [`prompt.json`](prompt.json).
+
+## 🚀 Goals
+
+- Showcase AI-generated media in a structured, reproducible format
+- Practice asset linking and GitHub documentation
+- Lay the foundation for future creative AI experiments
+
+## 💡 Next Steps
+
+- Add narration or subtitles using Azure AI services
+- Explore video hosting options for inline playback
+- Share this project with the community for feedback and collaboration
+
+---
+
