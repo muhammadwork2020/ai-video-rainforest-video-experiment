@@ -1,0 +1,10 @@
+{
+  "description": "Ultra realistic close-up of a transparent glass petri dish half-filled with fine golden sand on a white lab table. A syringe filled with glowing neon green liquid slowly lowers and releases two drops into the center of the sand. Upon contact, a rapid timelapse begins where a lush miniature prehistoric ecosystem emerges inside the petri dish. Small ferns, cycads, and palm-like plants grow quickly, and tiny, realistic velociraptors roam and interact naturally. The glass petri dish stays still, cinematic lighting with soft shadows, glowing reflections from the liquid, 8K detail, shallow depth of field.",
+  "style": "photorealistic, cinematic, macro shot, natural greens and glowing neon highlights",
+  "camera": "locked, slow zoom-in, centered in 16:9 frame",
+  "animation": [
+    "0-2s: syringe lowers and drops glowing liquid twice into sand",
+    "2-5s: prehistoric plants rapidly grow in timelapse",
+    "5-8s: tiny velociraptors appear and move gently within the ecosystem"
+  ]
+}
