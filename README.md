@@ -13,7 +13,7 @@ See [`prompt.json`](./prompt.json) for full structure.
 
 ## 📹 Output
 Watch the final video [here](./rainforest%20ai%20video.mp4)  
-*(or update the link if you placed it in an `assets/` folder)*
+
 
 ## 🧠 Lessons Learned
 - Petri dish offers stronger scientific symbolism than a half-bowl.
