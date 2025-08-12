@@ -1,44 +1,49 @@
-# 🌿 Rainforest AI Video Project
+# 🎬 AI Video Experiments by Muhammad
 
-This project explores the use of AI to generate a short video about the rainforest, combining creative prompts with automated video synthesis. It's part of my journey into AI-powered media generation and cloud-based asset management.
-
-## 📁 Project Structure
-
-- `prompt.json` — Contains the structured prompt used to generate the video.
-- `assets/` — Folder holding the final video output and placeholder files.
-  - `rainforest ai video.mp4` — The generated video.
-  - `.gitkeep` — Keeps the folder tracked in Git.
-
-## 🎬 Watch the Video
-
-Click below to view the AI-generated rainforest video:
-
-[▶️ rainforest ai video.mp4](assets/rainforest%20ai%20video.mp4)
-
-> Note: GitHub does not preview `.mp4` files inline, but the link will allow you to download or open the video in your browser.
-
-## 🧠 Prompt Overview
-
-The prompt used to generate this video focused on:
-
-- 🌳 Rainforest biodiversity
-- 🌦️ Climate and atmosphere
-- 🐒 Wildlife and natural sounds
-- 🎨 Visual storytelling through AI
-
-You can view the full prompt in [`prompt.json`](prompt.json).
-
-## 🚀 Goals
-
-- Showcase AI-generated media in a structured, reproducible format
-- Practice asset linking and GitHub documentation
-- Lay the foundation for future creative AI experiments
-
-## 💡 Next Steps
-
-- Add narration or subtitles using Azure AI services
-- Explore video hosting options for inline playback
-- Share this project with the community for feedback and collaboration
+Welcome to my creative sandbox for AI-generated video projects. I'm exploring storytelling, prompt engineering, and visual design using generative tools. Each video is a learning experience—some polished, some experimental—but all part of my journey.
 
 ---
+
+## 🌲 Glowing Forest — First Attempt
+
+A cinematic forest scene with glowing mushrooms and bioluminescent fog. This was my first try at prompt-based video generation.
+
+📄 Prompt: [`glowing-forest-prompt.json`](prompts/glowing-forest-prompt.json)  
+🎥 Video: [`glowing_forest.mp4`](assets/glowing_forest.mp4)
+
+### ✅ Highlights
+- Strong atmosphere and lighting
+- Smooth camera transitions
+- Mushrooms felt alive and reactive
+
+### 🔍 Lessons Learned
+- Needed better pacing
+- Fog layering could be improved
+
+---
+
+## 🦖 Petri Dish Dinosaur Ecosystem — Second Attempt
+
+Inspired by the idea of a prehistoric ecosystem emerging from glowing liquid inside a petri dish. Shared on TikTok and got ~700 views!
+
+📄 Prompt: [`petri-ecosystem-prompt.json`](prompts/petri-ecosystem-prompt.json)  
+🎥 Video: [`dinosaur_ecosystem.mp4`](assets/dinosaur_ecosystem.mp4)
+
+### ✅ Highlights
+- Cool concept with glowing liquid and plant growth
+- Dinosaurs added visual interest
+- Friends said it looked “quite nice” 😄
+
+### 🔍 Lessons Learned
+- Liquid didn’t visibly absorb into sand
+- Dinosaurs were too large for the scale
+- Scenes felt disconnected
+
+---
+
+## 🚀 What’s Next
+
+I’m continuing to refine my prompts, storytelling, and visual consistency. Each project helps me understand how to better control AI outputs and create immersive scenes.
+
+Feel free to explore, give feedback, or follow along as I build more!
 
